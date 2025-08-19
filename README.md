@@ -1,5 +1,11 @@
 # Hello, hello!
 
+I'm Crystal. I'm a frontend engineer in the Bay Area with 10+ years of experience building for enterprise SaaS products. Previously at ClickUp.
+
+[View my old GitHub Profile](https://github.com/crystalfinch?tab=overview&from=2021-12-01&to=2021-12-31)<br />
+[View my ClickUp Github Profile](https://github.com/crystalclickup?tab=overview&from=2024-12-01&to=2024-12-31)
+
+<br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][sass]
